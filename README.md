@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://thetypingcat.com/typing-speed-test-result/1m/1/25/96"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pujan-sharma-86961723b/?originalSubdomain=in" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/pujan-sharma/?originalSubdomain=in"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pujan-sharma-86961723b/?originalSubdomain=in" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
