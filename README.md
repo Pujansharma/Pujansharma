@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/pujansharma" target="blank"><img src="https://img.shields.io/twitter/follow/pujansharma?logo=twitter&style=for-the-badge" alt="pujansharma" /></a> </p>
 
-- 🔭 I’m currently working on [Cult fit clone](https://gentle-beijinho-a9ba89.netlify.app/)
+- 🔭 I’m currently working on [Stream-space](https://spacestream-app.netlify.app/)
 
-- 🌱 I’m currently learning **HTML|| CSS || JAVASCRIPT || NODE JS**
+- 🌱 I’m currently learning **HTML|| CSS || JAVASCRIPT || NODE JS || Express JS || MongoDB || SQL**
 
 - 👯  All of my projects are available at https://pujansharma.github.io/
 
